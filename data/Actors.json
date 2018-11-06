@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"pri_1","characterIndex":0,"characterName":"pri","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"pri","traits":[],"initialLevel":1,"maxLevel":99,"name":"Trok","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teresa","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Márcia","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"pri_1","characterIndex":0,"characterName":"pri","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"pri","traits":[],"initialLevel":1,"maxLevel":99,"name":"Matheus","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Evil","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shinigami Aliado","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"Evil","classId":2,"equips":[3,0,2,3,4],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gabriel","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lúcio","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"bandido","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"bandido","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bandido","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
