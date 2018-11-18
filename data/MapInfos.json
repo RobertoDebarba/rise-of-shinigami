@@ -3,5 +3,5 @@ null,
 {"id":1,"expanded":false,"name":"Cidade","order":3,"parentId":0,"scrollX":1040,"scrollY":642.6666666666666},
 {"id":2,"expanded":true,"name":"Parque","order":1,"parentId":0,"scrollX":1040,"scrollY":642.6666666666666},
 {"id":3,"expanded":false,"name":"Pós-Morte","order":2,"parentId":0,"scrollX":1050.6666666666667,"scrollY":641.3333333333334},
-{"id":4,"expanded":false,"name":"Universidade","order":4,"parentId":0,"scrollX":1040,"scrollY":1038.6666666666667}
+{"id":4,"expanded":false,"name":"Universidade","order":4,"parentId":0,"scrollX":1040,"scrollY":641.3333333333334}
 ]
