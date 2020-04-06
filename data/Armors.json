@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"atypeId":1,"description":"Apenas traje sem qualquer proteção","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":153,"name":"Roupa Simples","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":2,"atypeId":1,"description":"Fornece um poco de proteção","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Colete","note":"","params":[0,0,0,0,0,0,0,0],"price":13},
-{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Roupas","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
-{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anel","note":"","params":[0,0,0,0,10,0,0,0],"price":300}
-]
