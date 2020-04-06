@@ -7,8 +7,7 @@ Get ready to wield your sword and face the most diverse types of demons while cl
 
 [Presentation video.](https://github.com/matheusPereiraKrumm/rise-of-shinigami/blob/master/presentation/video-presentation.mp4)
 
-<img src="https://github.com/matheusPereiraKrumm/rise-of-shinigami/blob/master/screenshot/scr1.png" width="400">
-<img src="https://github.com/matheusPereiraKrumm/rise-of-shinigami/blob/master/screenshot/scr2.png" width="400">
+<img src="https://github.com/matheusPereiraKrumm/rise-of-shinigami/blob/master/screenshot/scr1.png" width="400"><img src="https://github.com/matheusPereiraKrumm/rise-of-shinigami/blob/master/screenshot/scr2.png" width="400">
 
 ## How to play:
 The player must fight, increase his strength and manage resources.  
